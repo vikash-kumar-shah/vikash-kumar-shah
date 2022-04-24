@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Vikash-Kumar-Shah
 - 👀 I’m interested in CrAcKiNg cRaZy cOdEs
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning SQL
+- ✨ Skill- C,C++,Java,Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me- insta:kumar_shah_24
 
